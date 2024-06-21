@@ -1,6 +1,15 @@
 # Crud_CI-CD_AWS_Backend
 
 
+Todo's
+
+Test,Dev,Prod
+Branches
+Tests
+Diagrams and documentation 
+
+
+
 #List Items
 ```
 {
