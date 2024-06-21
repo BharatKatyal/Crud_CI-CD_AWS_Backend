@@ -1,0 +1,7 @@
+# Serverless temporary files
+*.serverless
+*.serverless.*
+
+# Compiled Python files
+*.pyc
+.aws-sam
