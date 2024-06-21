@@ -10,7 +10,7 @@ Diagrams and documentation
 
 
 
-#List Items
+# List Items
 ```
 {
   "httpMethod": "GET",
@@ -21,7 +21,7 @@ Diagrams and documentation
 }
 ```
 
-#Create Items
+# Create Items
 ```
 {
   "httpMethod": "POST",
@@ -34,7 +34,7 @@ Diagrams and documentation
 ```
 
 
-#GetItems
+# GetItems
 ```
 {
   "httpMethod": "GET",
@@ -48,8 +48,8 @@ Diagrams and documentation
 }
 ```
 
-#Update Items
-``
+# Update Items
+```
 {
   "httpMethod": "PUT",
   "path": "/items/123",
@@ -61,11 +61,9 @@ Diagrams and documentation
   },
   "body": "{\"name\": \"Updated Item 1\", \"description\": \"This is the updated item 1\"}"
 }
-``
+```
 
-
-
-#Delete Items
+#  Delete Items
 ```
 
 {
